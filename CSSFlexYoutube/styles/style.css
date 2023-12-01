@@ -1,0 +1,48 @@
+.main {
+   gap: 1em;
+   display: flex;
+   justify-content: center;
+   flex-wrap: nowrap;
+   align-items: normal;
+   align-content: normal;
+
+}
+
+.ytv {
+   display: flex;
+   gap: 1em;
+   flex-direction: column;
+}
+.ytv__bottom {
+}
+.ytv__left {
+   display: flex;
+   flex-wrap: nowrap;
+   height: 100%;
+}
+.ytv_info{
+   
+}
+
+.ytv__right {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: nowrap;
+   
+}
+.profile {
+   display: flex;
+   flex-wrap:nowrap;
+   
+ 
+   
+}
+.profile__text {
+    
+}
+.icon {
+
+}
+.btn--flex {
+    
+}
